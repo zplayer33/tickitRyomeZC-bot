@@ -1,1 +1,1 @@
-# tickitRyomeZC-bot
+# tickety-magic
